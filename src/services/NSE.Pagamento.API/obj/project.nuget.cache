@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cims+oUqaZMz768fwcNDOs+G169ve9YvxkFU31dOmAsCSV5UsbNs2PT7soA2TKi+rxJJP9/FfUUPeHOP8IVx1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elise\\Desktop\\NSE.Dev.IO\\src\\services\\NSE.Pagamento.API\\NSE.Pagamento.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elise\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}

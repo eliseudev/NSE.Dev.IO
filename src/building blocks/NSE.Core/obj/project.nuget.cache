@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kkO2pkXdcseveqzJhYnXlXVKJKWLOvCKXWxHDONkkq0i56gPzwxw8cRcWBx2hOfgm1JPFEyi9hlIltPjFuPvmg==",
+  "dgSpecHash": "zLD2uw3Vrub2e3ZJDkWefrrw0/Dcr721BNEvpNMGz4OW5nfTmYTeTGkO+i9nWo+/ivvy2Lq6Itspa0LkFPiGfg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\elise\\Desktop\\NSE.DevIO\\NerdStoreEntreprise\\src\\building blocks\\NSE.Core\\NSE.Core.csproj",
+  "projectFilePath": "C:\\Users\\elise\\Desktop\\NSE.Dev.IO\\src\\building blocks\\NSE.Core\\NSE.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

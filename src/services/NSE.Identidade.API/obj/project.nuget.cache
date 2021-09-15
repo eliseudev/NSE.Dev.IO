@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J+GnyeZUTM3u9agsYlO9hYlRuwYD2W2RaiG/Htvpj+hwLKH5kXwABiDGdV0NpIW93xjujequZaUP6zFKxm7Ubw==",
+  "dgSpecHash": "tlQbI0Msc3vOzW1WFOkqrCXUFaoLvUXE+JBMCWe9b9fxcFji+nuHZADecGk2L37LbZBp6EseGr27YFbOxfO5mQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\elise\\Desktop\\NSE.DevIO\\NerdStoreEntreprise\\src\\services\\NSE.Identidade.API\\NSE.Identidade.API.csproj",
+  "projectFilePath": "C:\\Users\\elise\\Desktop\\NSE.Dev.IO\\src\\services\\NSE.Identidade.API\\NSE.Identidade.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\elise\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
   ],

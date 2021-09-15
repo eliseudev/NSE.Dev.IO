@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2OHXqo4jXeSnT7fy7YuaigVqmS34BD6MU8diChmLeLYOwYNFRRg/n61/pZtwiue6NDSBxvkOxfZL3fXfStIWgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elise\\Desktop\\NSE.Dev.IO\\src\\services\\NSE.Catalogo.API\\NSE.Catalogo.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elise\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
