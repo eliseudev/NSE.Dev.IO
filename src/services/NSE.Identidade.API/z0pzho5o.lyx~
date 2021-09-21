@@ -9,7 +9,7 @@
   "AppSettings": {
     "Secret": "MEUSEGREDOSUPERSECRETO",
     "ExpircaoHoras": 2,
-    "Emissor": "NerdStoreEnterprise",
+    "Emissor": "MeuSistema",
     "ValidoEm": "https://localhost"
   }
 }

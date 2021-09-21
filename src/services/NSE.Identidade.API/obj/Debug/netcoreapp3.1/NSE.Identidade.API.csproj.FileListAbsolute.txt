@@ -71,3 +71,7 @@ C:\Users\elise\Desktop\NSE.Dev.IO\src\services\NSE.Identidade.API\obj\Debug\netc
 C:\Users\elise\Desktop\NSE.Dev.IO\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.pdb
 C:\Users\elise\Desktop\NSE.Dev.IO\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.genruntimeconfig.cache
 C:\Users\elise\Desktop\NSE.Dev.IO\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\elise\Desktop\NSE.Dev.IO\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\elise\Desktop\NSE.Dev.IO\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\elise\Desktop\NSE.Dev.IO\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\elise\Desktop\NSE.Dev.IO\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
