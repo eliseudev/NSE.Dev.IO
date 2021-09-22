@@ -74,14 +74,8 @@ namespace NSE.Identidade.API.Controllers
             {
                 return CustomResponse(await GerarJwt(usuarioLogin.Email));
             }
-            if (result.IsLockedOut)
-            {
-                AdicionarErroProcessamento("Usuário temporariamente bloqueado por tentativas inválidas");
-                return CustomResponse();
-            }
 
-            AdicionarErroProcessamento("Usuário ou Senha incorretos.");
-            return CustomResponse();
+            return BadRequest();
         }
 
         private async Task<UsuarioRespostaLogin> GerarJwt(string email)
